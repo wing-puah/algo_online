@@ -1,0 +1,26 @@
+{
+	"name": "algo_online",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"test:watch": "jest --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wing-puah/algo_online.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/wing-puah/algo_online/issues"
+	},
+	"homepage": "https://github.com/wing-puah/algo_online#readme",
+	"devDependencies": {
+		"@babel/core": "^7.7.5",
+		"@babel/preset-env": "^7.7.6",
+		"jest": "^24.9.0"
+	}
+}
