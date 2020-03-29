@@ -20,6 +20,7 @@
 	"homepage": "https://github.com/wing-puah/algo_online#readme",
 	"devDependencies": {
 		"@babel/core": "^7.7.5",
+		"@babel/plugin-transform-modules-commonjs": "^7.8.3",
 		"@babel/preset-env": "^7.7.6",
 		"jest": "^24.9.0"
 	}
